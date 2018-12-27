@@ -22,3 +22,4 @@ fail
 test
 test
 test
+test
